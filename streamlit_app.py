@@ -426,7 +426,7 @@ def screen_results():
 
     st.markdown("""
 **Did you get 100% correct?**  
-If not - then maybe consider reclassing to infantry or do it again!
+If not—then maybe consider reclassing to infantry or do it again!!
 
 """)
 
